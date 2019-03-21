@@ -1,0 +1,1 @@
+Programming Basics with C# is a course in SoftUni covering the baiscs of programming and the C# language.
