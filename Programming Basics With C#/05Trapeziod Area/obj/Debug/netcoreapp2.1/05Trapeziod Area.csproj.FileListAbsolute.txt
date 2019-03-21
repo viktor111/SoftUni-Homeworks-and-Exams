@@ -1,0 +1,10 @@
+C:\Users\viktor\source\repos\Programming Basics C SHarp\05Trapeziod Area\bin\Debug\netcoreapp2.1\05Trapeziod Area.deps.json
+C:\Users\viktor\source\repos\Programming Basics C SHarp\05Trapeziod Area\bin\Debug\netcoreapp2.1\05Trapeziod Area.runtimeconfig.json
+C:\Users\viktor\source\repos\Programming Basics C SHarp\05Trapeziod Area\bin\Debug\netcoreapp2.1\05Trapeziod Area.runtimeconfig.dev.json
+C:\Users\viktor\source\repos\Programming Basics C SHarp\05Trapeziod Area\bin\Debug\netcoreapp2.1\05Trapeziod Area.dll
+C:\Users\viktor\source\repos\Programming Basics C SHarp\05Trapeziod Area\bin\Debug\netcoreapp2.1\05Trapeziod Area.pdb
+C:\Users\viktor\source\repos\Programming Basics C SHarp\05Trapeziod Area\obj\Debug\netcoreapp2.1\05Trapeziod Area.csproj.CoreCompileInputs.cache
+C:\Users\viktor\source\repos\Programming Basics C SHarp\05Trapeziod Area\obj\Debug\netcoreapp2.1\05Trapeziod Area.AssemblyInfoInputs.cache
+C:\Users\viktor\source\repos\Programming Basics C SHarp\05Trapeziod Area\obj\Debug\netcoreapp2.1\05Trapeziod Area.AssemblyInfo.cs
+C:\Users\viktor\source\repos\Programming Basics C SHarp\05Trapeziod Area\obj\Debug\netcoreapp2.1\05Trapeziod Area.dll
+C:\Users\viktor\source\repos\Programming Basics C SHarp\05Trapeziod Area\obj\Debug\netcoreapp2.1\05Trapeziod Area.pdb

@@ -1,0 +1,11 @@
+C:\Users\viktor\source\repos\Programming Basics C SHarp\04Concatenate Data\bin\Debug\netcoreapp2.1\04Concatenate Data.deps.json
+C:\Users\viktor\source\repos\Programming Basics C SHarp\04Concatenate Data\bin\Debug\netcoreapp2.1\04Concatenate Data.runtimeconfig.json
+C:\Users\viktor\source\repos\Programming Basics C SHarp\04Concatenate Data\bin\Debug\netcoreapp2.1\04Concatenate Data.runtimeconfig.dev.json
+C:\Users\viktor\source\repos\Programming Basics C SHarp\04Concatenate Data\bin\Debug\netcoreapp2.1\04Concatenate Data.dll
+C:\Users\viktor\source\repos\Programming Basics C SHarp\04Concatenate Data\bin\Debug\netcoreapp2.1\04Concatenate Data.pdb
+C:\Users\viktor\source\repos\Programming Basics C SHarp\04Concatenate Data\obj\Debug\netcoreapp2.1\04Concatenate Data.csproj.CoreCompileInputs.cache
+C:\Users\viktor\source\repos\Programming Basics C SHarp\04Concatenate Data\obj\Debug\netcoreapp2.1\04Concatenate Data.AssemblyInfoInputs.cache
+C:\Users\viktor\source\repos\Programming Basics C SHarp\04Concatenate Data\obj\Debug\netcoreapp2.1\04Concatenate Data.AssemblyInfo.cs
+C:\Users\viktor\source\repos\Programming Basics C SHarp\04Concatenate Data\obj\Debug\netcoreapp2.1\04Concatenate Data.dll
+C:\Users\viktor\source\repos\Programming Basics C SHarp\04Concatenate Data\obj\Debug\netcoreapp2.1\04Concatenate Data.pdb
+C:\Users\viktor\source\repos\Programming Basics C SHarp\04Concatenate Data\obj\Debug\netcoreapp2.1\04Concatenate Data.csprojAssemblyReference.cache
