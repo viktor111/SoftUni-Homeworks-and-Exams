@@ -1,0 +1,11 @@
+C:\Users\viktor\source\repos\Programming Basics C SHarp\072DRectangle Area\bin\Debug\netcoreapp2.1\072DRectangle Area.deps.json
+C:\Users\viktor\source\repos\Programming Basics C SHarp\072DRectangle Area\bin\Debug\netcoreapp2.1\072DRectangle Area.runtimeconfig.json
+C:\Users\viktor\source\repos\Programming Basics C SHarp\072DRectangle Area\bin\Debug\netcoreapp2.1\072DRectangle Area.runtimeconfig.dev.json
+C:\Users\viktor\source\repos\Programming Basics C SHarp\072DRectangle Area\bin\Debug\netcoreapp2.1\072DRectangle Area.dll
+C:\Users\viktor\source\repos\Programming Basics C SHarp\072DRectangle Area\bin\Debug\netcoreapp2.1\072DRectangle Area.pdb
+C:\Users\viktor\source\repos\Programming Basics C SHarp\072DRectangle Area\obj\Debug\netcoreapp2.1\072DRectangle Area.csprojAssemblyReference.cache
+C:\Users\viktor\source\repos\Programming Basics C SHarp\072DRectangle Area\obj\Debug\netcoreapp2.1\072DRectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\viktor\source\repos\Programming Basics C SHarp\072DRectangle Area\obj\Debug\netcoreapp2.1\072DRectangle Area.AssemblyInfoInputs.cache
+C:\Users\viktor\source\repos\Programming Basics C SHarp\072DRectangle Area\obj\Debug\netcoreapp2.1\072DRectangle Area.AssemblyInfo.cs
+C:\Users\viktor\source\repos\Programming Basics C SHarp\072DRectangle Area\obj\Debug\netcoreapp2.1\072DRectangle Area.dll
+C:\Users\viktor\source\repos\Programming Basics C SHarp\072DRectangle Area\obj\Debug\netcoreapp2.1\072DRectangle Area.pdb
